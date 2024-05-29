@@ -1,6 +1,5 @@
-# Google Map Place Search Api IN FLUTTER
+# Google Map App in FLUTTER
 This Flutter app aims to implement the Google Maps Place API in a user-friendly way, allowing users to search for locations.
-Please note that permissions are not handled in this project.
 
 ## Dependencies:
 - [google_maps_flutter](https://pub.dev/packages/google_maps_flutter)
