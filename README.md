@@ -14,8 +14,6 @@ Once you have your API key, add your key in lib/constants/string_constants.dart.
 
 
 
-https://user-images.githubusercontent.com/81028182/227557358-2d227393-e793-4e1b-855e-59f89160d5d6.mp4
-
 
 ## SCREENSHOTS
 <img width="300" height="600" alt="Group 12" src="https://user-images.githubusercontent.com/81028182/227563203-cea68b59-3940-4db4-96ac-7a409f091bd1.png">
